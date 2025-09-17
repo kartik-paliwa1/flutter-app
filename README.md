@@ -16,10 +16,3 @@
 ### Screen After events are added: 
 ![h3](https://user-images.githubusercontent.com/84179065/208622423-32439e56-a397-4875-ae52-387902087622.JPG)
 
-
-## Demo Video:
-
-
-https://user-images.githubusercontent.com/84179065/208625229-4e0b70e9-5faa-4c58-9b7c-51bdb1a323f4.mp4
-
-
